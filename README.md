@@ -1,2 +1,1 @@
-# artemis-treasury
 # artemis-contracts
